@@ -2,3 +2,4 @@
 
 Hi everyone
 This is my solutions for projects of cs188 of berkly college.
+This course is about basics of AI.
